@@ -1,0 +1,14 @@
+item {
+	id: 1
+	name: 'fan'
+}
+
+item {
+	id: 2
+	name: 'lamp'
+}
+
+item {
+	id: 3
+	name: 'nanoleaf'
+}

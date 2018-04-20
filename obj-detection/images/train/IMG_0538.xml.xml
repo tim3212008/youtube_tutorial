@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_0538.jpg</filename>
+	<path>/Users/kaiqianzhu/Desktop/images/train/IMG_0538.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>806</width>
+		<height>605</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lamp</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>153</ymin>
+			<xmax>806</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

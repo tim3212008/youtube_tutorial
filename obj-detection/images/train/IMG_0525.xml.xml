@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_0525.jpg</filename>
+	<path>/Users/kaiqianzhu/Desktop/images/train/IMG_0525.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>806</width>
+		<height>605</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nanoleaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>53</ymin>
+			<xmax>786</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>
